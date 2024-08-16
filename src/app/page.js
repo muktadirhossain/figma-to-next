@@ -51,7 +51,7 @@ export default function Home() {
 
       {/* form:: */}
       <section>
-        <Card className="max-w-[787px] mx-auto px-[64px] py-[44px]">
+        <Card className="max-w-[787px] bg-white mx-auto px-[64px] py-[44px]">
           <CardContent>
             <FormField
               label="Insurance Company"
